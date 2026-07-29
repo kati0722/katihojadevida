@@ -1,0 +1,352 @@
+Actúa como un desarrollador Frontend Senior y un diseñador UX/UI experto. Crea una página web profesional de una sola página (Single Page Application) que funcione como mi hoja de vida (Currículum Vitae) y portafolio personal.
+
+La página debe transmitir una imagen moderna, profesional, elegante, creativa, intuitiva y amigable, con una excelente experiencia de usuario (UX), una interfaz atractiva (UI), animaciones fluidas y un diseño completamente responsive.
+
+==========================
+INFORMACIÓN PERSONAL
+==========================
+
+Nombre: Kati
+
+Edad: 19 años
+
+Dirección: Salcedo, Ecuador
+
+Correo electrónico: katherine.hachi9618@utc.edu.ec
+
+Fotografía: utilizar una imagen placeholder hasta que agregue mi fotografía.
+
+==========================
+TECNOLOGÍAS
+==========================
+
+Utilizar únicamente:
+
+• HTML5
+• CSS3
+• JavaScript (Vanilla)
+• Font Awesome
+• Google Fonts (Poppins o Inter)
+
+No utilizar Bootstrap ni otros frameworks.
+
+El código debe ser limpio, modular, reutilizable, bien estructurado y comentado.
+
+==========================
+DISEÑO
+==========================
+
+Crear una interfaz:
+
+• Moderna
+• Profesional
+• Elegante
+• Creativa
+• Intuitiva
+• Minimalista
+• Responsive
+• Accesible
+
+Utilizar una paleta de colores basada en:
+
+• Azul oscuro
+• Azul claro
+• Blanco
+• Gris claro
+
+Agregar:
+
+• Sombras suaves
+• Bordes redondeados
+• Animaciones modernas
+• Scroll suave
+• Efectos hover
+• Glassmorphism ligero
+• Gradientes elegantes
+• Fondo dinámico con figuras geométricas sutiles.
+
+==========================
+BARRA DE NAVEGACIÓN
+==========================
+
+Crear una barra fija con:
+
+• Inicio
+• Sobre mí
+• Formación Académica
+• Experiencia
+• Habilidades
+• Proyectos
+• Certificaciones
+• Cursos
+• Idiomas
+• Logros
+• Referencias
+• Contacto
+
+En móviles debe convertirse automáticamente en menú hamburguesa.
+
+==========================
+SELECTOR DE IDIOMA
+==========================
+
+Agregar un botón visible en la parte superior derecha de la barra de navegación para cambiar el idioma del sitio.
+
+Idiomas disponibles:
+
+🇪🇸 Español (predeterminado)
+🇺🇸 English
+🇫🇷 Français
+
+Requisitos:
+
+• Cambiar todo el contenido del sitio sin recargar la página.
+• Traducir automáticamente:
+  - Menú
+  - Títulos
+  - Subtítulos
+  - Botones
+  - Formularios
+  - Mensajes
+  - Footer
+  - Etiquetas
+  - Descripciones
+  - Textos dinámicos
+• Guardar el idioma seleccionado usando localStorage.
+• Detectar automáticamente el idioma del navegador en la primera visita.
+• Utilizar archivos JSON separados para las traducciones.
+• Diseñar la arquitectura para agregar nuevos idiomas fácilmente.
+
+==========================
+SECCIÓN HERO
+==========================
+
+Mostrar:
+
+• Fotografía
+• Nombre
+• Edad
+• Dirección
+• Correo electrónico
+• Profesión (espacio para completar posteriormente)
+• Presentación profesional (texto de ejemplo)
+• Botón Descargar CV
+• Botón Contáctame
+
+==========================
+SOBRE MÍ
+==========================
+
+Agregar un texto temporal indicando que posteriormente será reemplazado.
+
+==========================
+FORMACIÓN ACADÉMICA
+==========================
+
+Crear una línea de tiempo moderna.
+
+Cada registro debe contener:
+
+• Institución
+• Carrera
+• Nivel
+• Fecha inicio
+• Fecha fin
+• Descripción
+
+Agregar cuatro registros vacíos.
+
+==========================
+EXPERIENCIA LABORAL
+==========================
+
+Crear tarjetas modernas con:
+
+• Empresa
+• Cargo
+• Fecha
+• Actividades
+• Logros
+
+Agregar cuatro espacios.
+
+==========================
+HABILIDADES TÉCNICAS
+==========================
+
+Mostrar barras de progreso.
+
+Agregar diez habilidades vacías.
+
+==========================
+HABILIDADES BLANDAS
+==========================
+
+Mostrar etiquetas animadas.
+
+Agregar diez espacios.
+
+==========================
+PROYECTOS
+==========================
+
+Crear tarjetas con:
+
+• Imagen
+• Nombre
+• Descripción
+• Tecnologías
+• Botón GitHub
+• Botón Demo
+
+Agregar seis proyectos vacíos.
+
+==========================
+CERTIFICACIONES
+==========================
+
+Crear tarjetas con:
+
+• Nombre
+• Institución
+• Fecha
+• Botón Ver certificado
+
+Agregar seis espacios.
+
+==========================
+CURSOS
+==========================
+
+Agregar una sección independiente.
+
+Cada curso debe contener:
+
+• Nombre
+• Plataforma
+• Fecha
+• Descripción
+
+Agregar ocho cursos vacíos.
+
+==========================
+IDIOMAS
+==========================
+
+Mostrar barras indicando el nivel.
+
+Agregar cinco espacios.
+
+==========================
+LOGROS
+==========================
+
+Agregar tarjetas para:
+
+• Premios
+• Reconocimientos
+• Participaciones
+• Eventos
+
+Agregar cinco espacios.
+
+==========================
+REFERENCIAS PERSONALES
+==========================
+
+Crear tres tarjetas con:
+
+• Nombre
+• Cargo
+• Empresa
+• Teléfono
+• Correo electrónico
+
+Todos los campos deben quedar vacíos.
+
+==========================
+CONTACTO
+==========================
+
+Crear un formulario con:
+
+• Nombre
+• Correo
+• Asunto
+• Mensaje
+
+Agregar validaciones con JavaScript.
+
+Mostrar además:
+
+• Dirección
+• Correo
+• Teléfono (vacío)
+• LinkedIn (vacío)
+• GitHub (vacío)
+
+==========================
+FUNCIONALIDADES
+==========================
+
+Implementar:
+
+• Modo claro / oscuro
+• Cambio de idioma dinámico
+• Botón volver arriba
+• Animaciones al hacer scroll
+• Scroll suave
+• Loader inicial elegante
+• Barra de progreso al navegar
+• Animaciones de aparición
+• SEO básico
+• Favicon
+• Código optimizado
+• Accesibilidad WCAG
+• Excelente rendimiento
+• Compatible con GitHub Pages
+
+==========================
+ESTRUCTURA DEL PROYECTO
+==========================
+
+/
+│
+├── index.html
+├── css/
+│   ├── styles.css
+│   ├── responsive.css
+│   └── animations.css
+│
+├── js/
+│   ├── app.js
+│   ├── theme.js
+│   ├── language.js
+│   └── animations.js
+│
+├── locales/
+│   ├── es.json
+│   ├── en.json
+│   └── fr.json
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── pdf/
+│
+├── data/
+│   └── profile.js
+│
+└── README.md
+
+==========================
+PERSONALIZACIÓN
+==========================
+
+Toda la información personal debe almacenarse en un único archivo profile.js. La página debe construirse automáticamente leyendo ese archivo, de forma que únicamente sea necesario modificar profile.js para actualizar toda la información del sitio.
+
+==========================
+RESULTADO ESPERADO
+==========================
+
+Genera una página web de nivel profesional con un diseño comparable al de un portafolio moderno de alta calidad. Debe incluir animaciones elegantes, una navegación fluida, componentes reutilizables, un diseño atractivo y totalmente responsive. Deja preparados todos los espacios con datos de ejemplo para que posteriormente pueda completar mi formación académica, experiencia laboral, proyectos, habilidades, certificaciones, idiomas, cursos, logros y referencias. El código debe ser escalable, fácil de mantener y listo para publicar directamente en GitHub Pages.
